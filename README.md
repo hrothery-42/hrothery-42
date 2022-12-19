@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hrothery-42
 - 👀 I’m a student at 42 Wolfsburg.
-- 🌱 I’m currently writing a mini-shell.
+- 🌱 I’m currently working on re-coding the stl containers.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
